@@ -1,0 +1,7 @@
+re == 2.2.1
+plotly == 4.11.0
+numpy == 1.18.1
+pandas = 1.0.3
+dash == 1.19.0
+yfinance == 4.11.0
+scipy == 1.4.1 
